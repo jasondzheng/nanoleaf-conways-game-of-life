@@ -1,0 +1,9 @@
+cluster1:
+  ip: '192.168.1.1'
+  key: PUT_YOUR_KEY_HERE
+  random_spawn_rate_lives: 5
+  random_spawn_rate_ticks: 6
+  tick_seconds: 0.3
+  alive_color_r: 255
+  alive_color_g: 220
+  alive_color_b: 220

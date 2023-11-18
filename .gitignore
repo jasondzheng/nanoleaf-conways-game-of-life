@@ -1,0 +1,6 @@
+# Python venv files
+venv/*
+__pycache__/*
+
+# Test config file
+config.yaml
